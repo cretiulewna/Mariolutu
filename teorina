@@ -1,5 +1,4 @@
 echo "# Mcom/cretiulewna/Mariolutu.git
 git push -u origin mainecho "# Mariolutu" >> README.md
 git init
-git remote add origin https://github.com/cretiulewna/Mariolutu.git
-git push -u ori
+
